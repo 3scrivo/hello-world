@@ -9,3 +9,5 @@ tre volte la differenza tra questi due numeri vola sul boccolo di una kutaja.
 Rimane solo un'ape a librarsi qua e là nell'aria,
 attirata dal gradevole odore di gelsomino e del pandano.
 Orsù, mia bella signora, sai dirmi quanti api ci sono?"
+
+-Sara Hart, C'era n volte.
