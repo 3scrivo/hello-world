@@ -1,4 +1,4 @@
-# hello-world
+# hello-world 🌐
 
 "Nell'antica India, i matematici sanscritti seguivano una tradizione orale: 
 gli algoritmi venivano trasformati in poesia per essere più facili da trasmettere a voce."
